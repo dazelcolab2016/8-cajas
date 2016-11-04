@@ -1,0 +1,30 @@
+.contenedora{
+   
+    width: 250px;
+    height: 90px;
+    margin-left:10px; 
+}
+.contenedora2{
+   
+    width: 170px;
+    height: 90px;
+    background: #ffffff;
+    border: 0px;
+    margin-left:5px;
+   }
+.hijo{
+    float:left;
+    margin:5px;
+}
+div{
+    background:darkgray;
+    border:1px solid black;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    margin-left: 10px;
+}
+
+
+
+
